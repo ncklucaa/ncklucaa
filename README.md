@@ -1,4 +1,4 @@
-- Hi, I’m Nick Luca, second year student at American River College, I am planning on transferring to California State University, Sacramento in a year
+- Hi, I’m Nick Luca, a second year student at American River College, I am planning on transferring to California State University, Sacramento in a year
 - I'm interested in further developing my programming skills
 - I’m currently learning C++
 - Pronouns: He/Him
