@@ -1,6 +1,6 @@
 - Hi, I’m Nick Luca, a computer science student at American River College, I am planning on transferring to California State University, Sacramento in Spring 2026
 - I'm interested in further developing my programming skills so far I am proficient in C++ and Python
-- I’m currently learning Assembly
+- I’m currently learning Assembly and approaches to intelligence
 - Pronouns: He/Him
 - You can reach me on Linkedin (https://www.linkedin.com/in/ncklucaa/)
 
