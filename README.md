@@ -1,5 +1,5 @@
-# 💫 About Me:
-🛜 currently working on my own webpage<br>👨🏼‍🎓 studying computer science at American River College
+# Hello World!, I'm Nick:
+👨🏼‍🎓 studying computer science at American River College
 
 
 ## 🌐 Socials:
