@@ -1,5 +1,5 @@
 # Hello World!, I'm Nick:
-studying computer science at American River College
+Math & CS @ ARC
 
 
 ## Socials:
