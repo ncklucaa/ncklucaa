@@ -1,4 +1,4 @@
-# Hello World!, I'm Nick:
+# I'm Nick:
 Math & CS @ ARC
 
 
