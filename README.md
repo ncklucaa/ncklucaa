@@ -1,5 +1,5 @@
 # I'm Nick:
-Math & CS @ ARC
+Math & CS @ FLC
 
 
 ## Socials:
